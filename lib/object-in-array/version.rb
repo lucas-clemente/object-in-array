@@ -1,7 +1,3 @@
-module Object
-  module In
-    module Array
-      VERSION = "1.0"
-    end
-  end
+module ObjectInArray
+  VERSION = "1.0"
 end

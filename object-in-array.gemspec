@@ -5,7 +5,7 @@ require 'object-in-array/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "object-in-array"
-  gem.version       = Object::In::Array::VERSION
+  gem.version       = ObjectInArray::VERSION
   gem.authors       = ["Lucas Clemente"]
   gem.email         = ["luke.clemente@gmail.com"]
   gem.description   = %q{An array inclusion helper for Object.}
