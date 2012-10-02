@@ -5,5 +5,3 @@ class Object
     array.include? self
   end
 end
-
-Object.send :include, Object
