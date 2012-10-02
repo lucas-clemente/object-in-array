@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["luke.clemente@gmail.com"]
   gem.description   = %q{An array inclusion helper for Object.}
   gem.summary       = %q{Adds an array inclusion helper to Object.}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/lucas-clemente/object-in-array"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
